@@ -1,0 +1,169 @@
+- name: Приветствуем в AltspaceVR
+  href: index.yml
+- name: Знакомство с AltspaceVR
+  href: journey.md
+- name: Начало работы
+  expanded: true
+  items:
+    - name: Требования к системе
+      href: getting-started/system-requirements.md
+    - name: Установка Windows Mixed Reality
+      href: getting-started/wmr-installation.md
+    - name: Установка Oculus Quest/Quest 2
+      href: getting-started/oculus-installation.md
+    - name: Создание учетной записи
+      items:
+        - name: Регистрация учетной записи
+          href: getting-started/registration.md
+        - name: Связывание учетных записей Майкрософт
+          href: getting-started/linking-microsoft-account.md
+    - name: Элементы управления для ввода
+      items:
+        - name: Элементы управления Windows Mixed Reality
+          href: getting-started/wmr-controls.md
+        - name: Элементы управления Oculus Quest и Oculus Quest 2
+          href: getting-started/oculus-controls.md
+        - name: сочетания клавиш
+          href: getting-started/keyboard-shortcuts.md
+        - name: Управление аватарами с помощью мыши или клавиатуры в режиме 2D на ПК
+          href: getting-started/avatar-controls.md
+        - name: Использование игрового планшета
+          href: getting-started/gamepad-controls.md
+- name: Поиск содержимого и людей
+  items:
+    - name: Знакомство с начальным экраном
+      href: community/exploring-title-screen.md
+    - name: Подписка на наш информационный бюллетень
+      href: community/newsletter-subscriptions.md
+    - name: Участие в жизни сообщества
+      items:
+        - name: Программа помощи сообществу
+          href: community/community-helper-program.md
+        - name: Руководство по оказанию помощи в сообществе
+          href: community/community-helper-guide.md
+- name: Создание и проведение мероприятий
+  items:
+    - name: Простые мероприятия
+      items:
+        - name: Подготовка мероприятия
+          href: tutorials/creating-an-event.md
+        - name: 'Роли в мероприятиях, мирах, группах и AltspaceVR'
+          href: getting-started/roles.md
+        - name: Требования к главному мероприятию
+          href: tutorials/main-events.md
+        - name: Использование функций групп
+          href: tutorials/group-features.md
+        - name: Восстановление удаленных мероприятий
+          href: tutorials/recovering-deleted-events.md
+    - name: Расширенные мероприятия
+      items:
+        - name: Масштабирование аудитории с помощью FrontRow
+          href: faqs/scaling-audiences.md
+        - name: Веб-проектор
+          href: tutorials/web-projector-streaming.md
+        - name: Консоль мультимедиа
+          href: tutorials/multimedia-console.md
+        - name: Функция Interactables Spawner
+          href: tutorials/interactable-spawner.md
+        - name: Телепорты
+          href: tutorials/teleporting.md
+    - name: Средства проведения мероприятий
+      items:
+        - name: Обзор
+          href: tutorials/host-tools-overview.md
+        - name: Мероприятия FrontRow
+          href: tutorials/host-tools-for-events.md
+- name: Элементы управления и настройки
+  items:
+    - name: Ранний доступ
+      href: world-building/early-access.md
+    - name: Программа бета-тестирования миров
+      items:
+        - name: Создание простых миров
+          items:
+            - name: Создание содержимого
+              href: community/creating-content.md
+            - name: Начало работы с редактором миров
+              href: world-building/world-editor-getting-started.md
+            - name: Повышение производительности
+              href: world-building/improving-performance.md
+            - name: Управление своими мирами
+              href: world-building/managing-worlds.md
+            - name: Добавление приветственного сообщения
+              href: world-building/adding-welcome-messages.md
+            - name: Добавление точек появления
+              href: world-building/adding-custom-spawn-points.md
+            - name: Создание резервных копий миров
+              href: world-building/backing-up-worlds.md
+            - name: Управление мирами с друзьями
+              href: world-building/granting-roles.md
+            - name: Предоставление возможностей друзьям
+              href: world-building/adding-user-abilities.md
+        - name: Создание расширенных миров
+          items:
+            - name: Набор средств для создания миров (Unity Uploader)
+              href: world-building/world-building-toolkit-getting-started.md
+            - name: Использование расширений смешанной реальности
+              href: world-building/using-mixed-reality-extensions.md
+            - name: Отправка наборов
+              href: world-building/uploading-custom-kits.md
+            - name: Импорт моделей glTF
+              href: world-building/importing-models.md
+            - name: Отправка скайбоксов
+              href: world-building/uploading-custom-skyboxes.md
+        - name: Вопросы и ответы
+          items:
+            - name: Начало работы с созданием миров
+              href: world-building/world-building-getting-started.md
+            - name: Получение помощи по созданию миров
+              href: world-building/getting-help.md
+- name: Правила и стандарты
+  items:
+    - name: Условия предоставления услуг
+      href: community/terms-of-service.md
+    - name: Стандарты сообщества
+      href: community/community-standards.md
+- name: Устранение неполадок и поддержка
+  items:
+    - name: Часто задаваемые вопросы
+      items:
+        - name: Аудио
+          items:
+            - name: Есть ли у моей гарнитуры виртуальной реальности встроенный микрофон?
+              href: faqs/vr-headset-mic.md
+            - name: Есть ли кнопка для разговора?
+              href: faqs/push-to-talk.md
+            - name: Аудио прерывается
+              href: faqs/choppy-audio.md
+            - name: Другие пользователи не слышат меня
+              href: faqs/other-users-cant-hear-me.md
+        - name: Учетная запись и аватар
+          items:
+            - name: Как работают ярлыки с именами?
+              href: faqs/nametags.md
+            - name: Как я могу изменить сведения в учетной записи?
+              href: faqs/updating-email-address.md
+        - name: Приложение AltspaceVR
+          items:
+            - name: Как узнать версию приложения AltspaceVR?
+              href: faqs/app-version.md
+            - name: Как отправить журналы клиента?
+              href: faqs/uploading-client-logs.md
+            - name: Не удается запустить AltspaceVR
+              href: faqs/unable-to-launch.md
+        - name: Работоспособность и безопасность
+          items:
+            - name: Вызывает ли AltspaceVR укачивание?
+              href: faqs/motion-sickness.md
+        - name: События
+          items:
+            - name: Что собой представляют мероприятия FrontRow?
+              href: faqs/front-row-events.md
+- name: Свяжитесь с нами
+  items:
+    - name: Справка
+      href: community/open-support-ticket.md
+    - name: Запросы функций
+      href: community/feature-requests.md
+    - name: Отправка отчетов о нарушениях
+      href: community/filing-abuse-reports.md
