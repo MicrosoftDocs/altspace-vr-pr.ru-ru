@@ -1,0 +1,35 @@
+---
+title: Использование расширения Mixed Reality
+description: Узнайте, как использовать расширения смешанной реальности и устранять их неполадки для расширения и адаптации Алтспацеврных миров.
+ms.date: 03/11/2021
+ms.topic: article
+keywords: Смешанная реальность, расширения, устранение неполадок
+ms.openlocfilehash: 498e71c48f7c67abc40ce4f4667c9eeac4c4e73b
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212644"
+---
+# <a name="using-a-mixed-reality-extension"></a><span data-ttu-id="d69df-104">Использование расширения Mixed Reality</span><span class="sxs-lookup"><span data-stu-id="d69df-104">Using a Mixed Reality Extension</span></span>
+
+<span data-ttu-id="d69df-105">[Расширения Mixed Reality](https://developer.altvr.com/) (MREs) — это приложения, которые можно использовать в своих мировых средах от [Helmets](https://account.altvr.com/mres/1173667287173955931) до рабочего [старгате](https://account.altvr.com/mres/1152987031857529562).</span><span class="sxs-lookup"><span data-stu-id="d69df-105">[Mixed Reality Extensions](https://developer.altvr.com/) (MREs) are apps you can use in your Worlds from [helmets](https://account.altvr.com/mres/1173667287173955931) to a working [Stargate](https://account.altvr.com/mres/1152987031857529562).</span></span> <span data-ttu-id="d69df-106">Это объясняется тем, как члены сообщества с возможностями программирования могут расширять Алтспаце, а односторонние сборки мира могут сделать их более интерактивными.</span><span class="sxs-lookup"><span data-stu-id="d69df-106">This is how community members with programming experience can extend Altspace and one-way World Builders can make their Worlds more interactive.</span></span> <span data-ttu-id="d69df-107">Хотя MREs может использоваться любым сотрудником мира, только люди в программе мирового здания могут просматривать и порождать MREs в своих странах.</span><span class="sxs-lookup"><span data-stu-id="d69df-107">While MREs can be used by anyone in a World, only people in the World Building Program can browse and spawn MREs in their Worlds.</span></span> 
+
+1. <span data-ttu-id="d69df-108">Просмотрите раздел MRE на нашем [веб-сайте](https://account.altvr.com/mres).</span><span class="sxs-lookup"><span data-stu-id="d69df-108">Browse the MRE section of our [website](https://account.altvr.com/mres).</span></span> <span data-ttu-id="d69df-109">По умолчанию вы увидите собственный MREs, поэтому выберите на **алтспаце** , чтобы увидеть официальный MREs и **Избранные** сведения для просмотра MREs от сообщества.</span><span class="sxs-lookup"><span data-stu-id="d69df-109">By default you'll see your own MREs so select on **Altspace** to see official MREs and **Featured** to see MREs from the community.</span></span> <span data-ttu-id="d69df-110">Познакомьтесь с любым MRE, прежде чем использовать его в своем мире.</span><span class="sxs-lookup"><span data-stu-id="d69df-110">Get familiar with any MRE before you use it in your World.</span></span> 
+2. <span data-ttu-id="d69df-111">Перейдите к [Helmets](https://account.altvr.com/mres/1173667287173955931) MRE и выберите **Копировать в буфер обмена**.</span><span class="sxs-lookup"><span data-stu-id="d69df-111">Navigate to the [Helmets](https://account.altvr.com/mres/1173667287173955931) MRE and select **Copy to Clipboard**.</span></span> 
+3. <span data-ttu-id="d69df-112">Введите свой мир и откройте мир, чтобы ознакомиться с **основами > приложении SDK**.</span><span class="sxs-lookup"><span data-stu-id="d69df-112">Enter your World and open the World Editor to **Basics > SDK App**.</span></span> <span data-ttu-id="d69df-113">Вставьте URL-адрес для Helmets в поле целевого URI и нажмите кнопку **подтвердить**.</span><span class="sxs-lookup"><span data-stu-id="d69df-113">Paste in the URL for Helmets into the Target URI field and select **Confirm**.</span></span> <span data-ttu-id="d69df-114">Объект MRE должен появиться и попытаться подключиться к MRE, работающему в облаке.</span><span class="sxs-lookup"><span data-stu-id="d69df-114">The MRE Object should appear and attempt to connect to the MRE that's running in the cloud.</span></span> <span data-ttu-id="d69df-115">Теперь вы должны увидеть некоторые Helmets, которые можно щелкнуть.</span><span class="sxs-lookup"><span data-stu-id="d69df-115">You should now see some helmets you can click on.</span></span>
+4. <span data-ttu-id="d69df-116">Переместите, поверните или масштабируйте MRE так же, как любой другой объект мира.</span><span class="sxs-lookup"><span data-stu-id="d69df-116">Move/rotate/scale the MRE just as you would any other World Object.</span></span>
+
+<span data-ttu-id="d69df-117">Поздравляем!</span><span class="sxs-lookup"><span data-stu-id="d69df-117">Congratulations!</span></span> <span data-ttu-id="d69df-118">Вы используете MREs сейчас--то здорово!</span><span class="sxs-lookup"><span data-stu-id="d69df-118">You're using MREs now--you're so cool!</span></span>
+
+## <a name="troubleshooting"></a><span data-ttu-id="d69df-119">Устранение неполадок</span><span class="sxs-lookup"><span data-stu-id="d69df-119">Troubleshooting</span></span>
+
+<span data-ttu-id="d69df-120">**MRE отображает символ хмурая эмодзи**</span><span class="sxs-lookup"><span data-stu-id="d69df-120">**MRE is showing a frowning emoji**</span></span> 
+    * <span data-ttu-id="d69df-121">Проверьте правильность URL-адреса</span><span class="sxs-lookup"><span data-stu-id="d69df-121">Verify that the URL is correct</span></span>
+    * <span data-ttu-id="d69df-122">**Переключите** параметр на объект и нажмите кнопку **подтвердить** .</span><span class="sxs-lookup"><span data-stu-id="d69df-122">Toggle **Is Playing** option on the Object and choose **confirm**</span></span>
+    * <span data-ttu-id="d69df-123">Попробуйте повторно ввести</span><span class="sxs-lookup"><span data-stu-id="d69df-123">Try reentering</span></span>
+
+<span data-ttu-id="d69df-124">**MRE — задержкой** В зависимости от того, где размещается MRE, может возникнуть задержка в сети.</span><span class="sxs-lookup"><span data-stu-id="d69df-124">**MRE is lagging** Depending on where an MRE is hosted you may experience some network latency</span></span>
+
+<span data-ttu-id="d69df-125">**Зачем нужно вставлять URL-адреса?**</span><span class="sxs-lookup"><span data-stu-id="d69df-125">**Why do we have to paste URLs?**</span></span>
+<span data-ttu-id="d69df-126">В будущем вы можете управлять и создавать MREs, как и артефакты из комплектов.</span><span class="sxs-lookup"><span data-stu-id="d69df-126">In the future, you can manage and spawn MREs like you do Artifacts from Kits.</span></span> <span data-ttu-id="d69df-127">До этого мы будем продолжать использовать URL-адреса</span><span class="sxs-lookup"><span data-stu-id="d69df-127">Until then, we'll continue using URLs</span></span>

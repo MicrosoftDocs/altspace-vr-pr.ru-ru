@@ -1,0 +1,32 @@
+---
+title: Как работает наметагс?
+description: Узнайте о различных видах наметагс и о том, как они работают в Алтспацевр.
+ms.date: 02/10/2021
+ms.topic: article
+keywords: Вопросы и ответы
+ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
+ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "107212756"
+---
+# <a name="how-do-nametags-work"></a><span data-ttu-id="316c8-104">Как работает наметагс?</span><span class="sxs-lookup"><span data-stu-id="316c8-104">How do nametags work?</span></span>
+
+<span data-ttu-id="316c8-105">Если вы хотите просмотреть карточки другого пользователя, выберите аватар с курсором и карточки, которые будут отображаться выше.</span><span class="sxs-lookup"><span data-stu-id="316c8-105">If you'd like to see another user's Nametag, select their avatar with your cursor and their Nametag will, then display above.</span></span>
+
+<span data-ttu-id="316c8-106">Вы увидите несколько значков на карточке: **Friend, Block** и **выкл**.</span><span class="sxs-lookup"><span data-stu-id="316c8-106">You'll see a few icons on the Nametag: **Friend, Block,** and **Mute**.</span></span>
+
+* <span data-ttu-id="316c8-107">**Выкл.:** Если щелкнуть значок со звуком, вы сможете отключить пользователя, это временный звук, и вы можете включить его в любое время.</span><span class="sxs-lookup"><span data-stu-id="316c8-107">**Mute:** Clicking the Mute icon will allow you to mute a user, this is a temporary mute and you can unmute them at any time.</span></span> <span data-ttu-id="316c8-108">Если значок выключения пользователя уже красного цвета, это означает, что они отключены.</span><span class="sxs-lookup"><span data-stu-id="316c8-108">If this users' mute icon is already red, it means they've muted themselves.</span></span>
+
+* <span data-ttu-id="316c8-109">**Блокировка:** Функция блокировки позволит вам удалить пользователя из своих интерфейсов.</span><span class="sxs-lookup"><span data-stu-id="316c8-109">**Block:** The block feature will allow you to remove a user from your experience.</span></span> <span data-ttu-id="316c8-110">Вы больше не будете видеть этого пользователя и не слышите его, и он больше не будет видеть и слышать вас.</span><span class="sxs-lookup"><span data-stu-id="316c8-110">You'll no longer see or hear that user, and they'll no longer see or hear you.</span></span> <span data-ttu-id="316c8-111">Если необходимо разблокировать пользователя, откройте панель друзей в Алтспацевр, перейдите на вкладку Block (блокировка), а затем разблокируйте пользователя.</span><span class="sxs-lookup"><span data-stu-id="316c8-111">If you need to unblock a user, open up your Friends panel in AltspaceVR, select the block tab, then unblock the user.</span></span>
+
+* <span data-ttu-id="316c8-112">**Дружественное:** Кнопка "Friend" отправляет этого пользователя в дружественный запрос, после того, как он уже является дружественным другим пользователем, вы можете запрашивать его через пробелы, видеть, когда пользователь находится в сети, и легко присоединяться к своей комнате.</span><span class="sxs-lookup"><span data-stu-id="316c8-112">**Friending:** The friend button will send that user a friend request, after Friending another user you can message them across spaces, see when that user is online, and easily join their room.</span></span> <span data-ttu-id="316c8-113">Карточки этого пользователя также будут включать синюю границу, чтобы вы могли легко понять их как друга.</span><span class="sxs-lookup"><span data-stu-id="316c8-113">That user's Nametag will also include a blue border so you can easily recognize them as a friend.</span></span> <span data-ttu-id="316c8-114">Вы также увидите счетчик в нижней части карточки, в котором будет показана продолжительность друзей с этим пользователем.</span><span class="sxs-lookup"><span data-stu-id="316c8-114">You'll also notice a counter at the bottom of their Nametag, which will show the duration that you've been friends with that user.</span></span>
+
+<span data-ttu-id="316c8-115">При размещении собственного действия вы получите другие средства для управления.</span><span class="sxs-lookup"><span data-stu-id="316c8-115">When you host your own activity, you'll receive some other tools for moderation.</span></span> <span data-ttu-id="316c8-116">Теперь у вас есть возможность подавать пользователям сообщения, с которыми вы еще не знакомы, и у вас также есть возможность запускать пользователей.</span><span class="sxs-lookup"><span data-stu-id="316c8-116">You'll now have the ability to message users who you aren't yet friends with, and you'll also have the ability to Kick users.</span></span>
+
+* <span data-ttu-id="316c8-117">**Начало:** Если пользователь прерывает действие, вы всегда можете использовать кнопку "Запуск". это приведет к удалению этого пользователя из действия.</span><span class="sxs-lookup"><span data-stu-id="316c8-117">**Kick:** If a user interrupts your activity you can always use the Kick button, this will remove that user from your activity.</span></span> <span data-ttu-id="316c8-118">После запуска они больше не смогут присоединиться к текущей активности.</span><span class="sxs-lookup"><span data-stu-id="316c8-118">After being kicked they, they'll no longer be able to join your current activity.</span></span> 
+
+* <span data-ttu-id="316c8-119">**Эмблема администратора:** У Алтспацевр есть персонал 24/7 в Campfire для помощи в VR.</span><span class="sxs-lookup"><span data-stu-id="316c8-119">**Admin Badge:** AltspaceVR has staff on hand 24/7 in The Campfire to assist you in VR.</span></span> <span data-ttu-id="316c8-120">Все сотрудники, представляющие Алтспацевр, будут иметь значок администратора Gold на их карточек.</span><span class="sxs-lookup"><span data-stu-id="316c8-120">All staff members representing AltspaceVR will have the gold Admin Badge on their nametag.</span></span>
+
+<span data-ttu-id="316c8-121">Наши сотрудники должны поддерживать и помогать вам, поэтому задавайте им все возможные вопросы.</span><span class="sxs-lookup"><span data-stu-id="316c8-121">Our staff is here to support and assist you, so please ask them any questions you might have!</span></span> 
