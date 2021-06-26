@@ -1,17 +1,17 @@
 ---
-title: Исследование Алтспацевр
+title: Знакомство с AltspaceVR
 description: Приступите к созданию и размещению виртуальных событий на платформе Алтспацевр с помощью нашего проверенного пути к контрольной точке.
 ms.date: 03/29/2021
 ms.topic: article
 keywords: алтспаце, виртуальная реальность, события, мировое здание, учебники
-ms.openlocfilehash: 4eee1f00e76acca16323cb76c576307a33d50796
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213075"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923061"
 ---
-# <a name="exploring-altspacevr"></a>Исследование Алтспацевр
+# <a name="exploring-altspacevr"></a>Знакомство с AltspaceVR
 
 ![Изображение баннера Алтспацевр](images/altspace-vr-banner.png)
 
@@ -27,8 +27,7 @@ ms.locfileid: "107213075"
 | --- | --- |
 | [Требования к системе](getting-started/system-requirements.md) | Убедитесь, что у вас есть необходимые средства и требования к системе, чтобы приступить к работе. |
 | Установка [Windows Mixed Reality](getting-started/wmr-installation.md) или [Окулус Quest](getting-started/oculus-installation.md)| Скачайте и установите последние приложения Windows Mixed Reality или Окулус Quest |
-| [Регистрация учетной записи Алтспацевр](getting-started/registration.md) | Создание и регистрация учетной записи прямо в приложении Алтспацевр |
-| [Связывание учетная запись Майкрософт](getting-started/linking-microsoft-account.md) | Интегрируйте учетная запись Майкрософт для доступа к избранным продуктам и службам Майкрософт с помощью единого входа |
+| [Создание и связывание учетной записи Алтспацевр](getting-started/creating-and-linking-accounts.md) | Создание и регистрация учетной записи прямо в приложении Алтспацевр и связывание ее с учетной записью Майкрософт|
 
 ## <a name="2-getting-comfortable"></a>2. Знакомство
 
@@ -74,7 +73,7 @@ ms.locfileid: "107213075"
 | [Повышение производительности в мире](world-building/improving-performance.md) | Получение диагностических сведений, средств производительности и советов по устранению неполадок для производительности |
 | [Импорт пользовательских скибоксес](world-building/uploading-custom-skyboxes.md) | Создайте и импортируйте собственный пользовательский скибоксес, чтобы сделать виртуальные пространства более увлекательными |
 
-**Средства размещения**
+**Средства проведения мероприятий**
 
 |  Контрольная точка  |  Результат  |
 | --- | --- |
@@ -95,4 +94,4 @@ ms.locfileid: "107213075"
 * [Стандарты сообщества](community/community-standards.md)
 * [Алтспацевр условия предоставления услуг](community/terms-of-service.md)
 * [Политика конфиденциальности Майкрософт](https://privacy.microsoft.com/privacystatement)
-* [Подпишитесь на наш информационный бюллетень](community/newsletter-subscriptions.md)
+* [Подписка на наш информационный бюллетень](community/newsletter-subscriptions.md)

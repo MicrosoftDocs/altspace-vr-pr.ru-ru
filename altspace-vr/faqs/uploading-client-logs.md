@@ -4,12 +4,12 @@ description: Сведения о доступных полях журнала к
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Журналы клиента
-ms.openlocfilehash: 82b45859bcfb9dec6f9b7690637ec0a9e497a8dd
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: e2fe1ea8b8070ca4c7d290269974610ce84f9cea
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213145"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923171"
 ---
 # <a name="how-do-i-upload-my-client-logs"></a>Разделы справки отправить журналы клиента?
 
@@ -31,3 +31,9 @@ ms.locfileid: "107213145"
 **"Отправить последние журналы"** При нажатии этой кнопки будут отправлены журналы из предыдущего сеанса.
 
 **"Отправка журнала последнего сбоя"** При нажатии этой кнопки будет отправлено больше содержимого журнала с последнего возникшего сбоя.
+
+## <a name="in-client-logs"></a>В журналах клиента
+
+Кроме того, можно получить файлы журнала с компьютера. Инструкции по получению этих журналов можно найти [здесь](https://docs.microsoft.com/windows/mixed-reality/altspace-vr/faqs/app-version#in-client-logs).
+
+После того как вы найдете эти файлы, отправьте запрос в [службу поддержки](https://help.altvr.com/hc/en-us/requests/new) и передайте свои журналы по запросу на получение билета, прежде чем нажать кнопку Отправить.

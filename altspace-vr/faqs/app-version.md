@@ -4,12 +4,12 @@ description: Узнайте, как использовать приложени�
 ms.date: 02/10/2021
 ms.topic: article
 keywords: версия приложения
-ms.openlocfilehash: 5d503d3b89cd213696dd53616c5c7e3013aeef01
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 6b710e1724b890fa7ba0eecfcd774ef63128d5b7
+ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213185"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112923181"
 ---
 # <a name="finding-the-altspacevr-app-version"></a>Поиск версии приложения Алтспацевр
 
@@ -42,8 +42,8 @@ ms.locfileid: "107213185"
 В Windows файл журнала клиента можно найти с помощью проводника Windows по адресу:
 
 ```
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player.log
-%userprofile%\appdata\locallow\altspacevr\altspacevr\Player-prev.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player.log
+%userprofile%\AppData\LocalLow\Microsoft\AltspaceVR\Player-prev.log
 ```
 
 Этот файл перезаписывается каждый раз при запуске Алтспацевр. "Проигрыватель. log" представляет последний сеанс, а "Плайер-прев. log" представляет предыдущий сеанс.
