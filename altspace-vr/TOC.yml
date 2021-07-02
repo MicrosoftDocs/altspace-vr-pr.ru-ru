@@ -11,12 +11,8 @@
       href: getting-started/wmr-installation.md
     - name: Установка Oculus Quest/Quest 2
       href: getting-started/oculus-installation.md
-    - name: Создание учетной записи
-      items:
-        - name: Регистрация учетной записи
-          href: getting-started/registration.md
-        - name: Связывание учетных записей Майкрософт
-          href: getting-started/linking-microsoft-account.md
+    - name: Создание и связывание учетных записей
+      href: getting-started/creating-and-linking-accounts.md
     - name: Элементы управления для ввода
       items:
         - name: Элементы управления Windows Mixed Reality
@@ -67,6 +63,8 @@
           href: tutorials/interactable-spawner.md
         - name: Телепорты
           href: tutorials/teleporting.md
+        - name: Запись и прямая потоковая трансляция
+          href: tutorials/recording-and-live-streaming.md
     - name: Средства проведения мероприятий
       items:
         - name: Обзор
@@ -103,6 +101,10 @@
           items:
             - name: Набор средств для создания миров (Unity Uploader)
               href: world-building/world-building-toolkit-getting-started.md
+            - name: Обновление содержимого до новейшей версии Unity
+              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: Руководство по оптимизации производительности мобильных устройств
+              href: world-building/unity-mobile-performance-guide.md
             - name: Использование расширений смешанной реальности
               href: world-building/using-mixed-reality-extensions.md
             - name: Отправка наборов
@@ -143,6 +145,8 @@
               href: faqs/nametags.md
             - name: Как я могу изменить сведения в учетной записи?
               href: faqs/updating-email-address.md
+            - name: Как удалить и повторно установить связь для учетной записи?
+              href: faqs/unlinking-and-relinking-accounts.md
         - name: Приложение AltspaceVR
           items:
             - name: Как узнать версию приложения AltspaceVR?

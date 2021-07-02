@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: Начало работы
       itemType: get-started
-      url: getting-started/system-requirements.md
+      url: journey.md
     - title: Поиск содержимого и людей
       itemType: overview
       url: getting-started/system-requirements.md
@@ -38,10 +38,8 @@ productDirectory:
     - title: Настройка и установка
       imageSrc: images/icon-discovery.png
       links:
-        - url: getting-started/registration.md
-          text: Регистрация учетной записи
-        - url: getting-started/linking-microsoft-account.md
-          text: Связывание учетных записей Майкрософт
+        - url: getting-started/creating-and-linking-accounts.md
+          text: Создание учетной записи и установка связи для нее
         - url: getting-started/wmr-installation.md
           text: Установка Windows Mixed Reality
         - url: getting-started/wmr-controls.md
@@ -49,7 +47,7 @@ productDirectory:
         - url: getting-started/oculus-installation.md
           text: Установка Oculus Quest
         - url: getting-started/oculus-controls.md
-          text: Установка Oculus Quest
+          text: Элементы управления Oculus Quest
     - title: Создание и проведение мероприятий
       imageSrc: images/icon-events.png
       links:
