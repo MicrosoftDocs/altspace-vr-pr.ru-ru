@@ -1,17 +1,17 @@
 ---
-title: Мой звук прерывистый
+title: Аудио прерывается
 description: Узнайте, как диагностировать и исправить прерывистое аудио в Алтспацевр событиях.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Вопросы и ответы
-ms.openlocfilehash: 13cba16d10cd2b946435f1fb23d794df05cca693
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 387fa7d2c73388118da3ce442baae1fe4f13881deef3599e04163ad2abf321f9
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212740"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128216"
 ---
-# <a name="my-audio-is-choppy"></a>Мой звук прерывистый
+# <a name="my-audio-is-choppy"></a>Аудио прерывается
 
 Некоторые пользователи заметили, что при произнесении другого аватара звук поступает в виде прерывистой или с обычным удалением. В других случаях другие пользователи могут получать информацию о том, что ваш собственный звук проходит через прерывистое или автоматически.
 

@@ -4,12 +4,12 @@ description: Приступите к созданию и размещению в
 ms.date: 03/29/2021
 ms.topic: article
 keywords: алтспаце, виртуальная реальность, события, мировое здание, учебники
-ms.openlocfilehash: cf5217e54e17b37f00e921468d82585d8bb580d7
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+ms.openlocfilehash: 7caf7f30980effa405bd68baf15bbfc43f4000d0888461452f36a1445a0b8214
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923061"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126457"
 ---
 # <a name="exploring-altspacevr"></a>Знакомство с AltspaceVR
 
@@ -26,7 +26,7 @@ ms.locfileid: "112923061"
 |  Контрольная точка  |  Результат  |
 | --- | --- |
 | [Требования к системе](getting-started/system-requirements.md) | Убедитесь, что у вас есть необходимые средства и требования к системе, чтобы приступить к работе. |
-| Установка [Windows Mixed Reality](getting-started/wmr-installation.md) или [Окулус Quest](getting-started/oculus-installation.md)| Скачайте и установите последние приложения Windows Mixed Reality или Окулус Quest |
+| установка [Windows Mixed Reality](getting-started/wmr-installation.md) или [окулус](getting-started/oculus-installation.md)| скачивание и установка последних версий приложений Windows Mixed Reality или окулус |
 | [Создание и связывание учетной записи Алтспацевр](getting-started/creating-and-linking-accounts.md) | Создание и регистрация учетной записи прямо в приложении Алтспацевр и связывание ее с учетной записью Майкрософт|
 
 ## <a name="2-getting-comfortable"></a>2. Знакомство
@@ -35,7 +35,7 @@ ms.locfileid: "112923061"
 
 |  Контрольная точка  |  Результат  |
 | --- | --- |
-| Знакомство с элементами управления вводом в [Windows Mixed Reality](getting-started/wmr-controls.md) или [Окулус](getting-started/oculus-controls.md) | Знакомство с виртуальными элементами управления в Windows Mixed Reality и Окулус Quest |
+| знакомство с элементами управления вводом [Windows Mixed Reality](getting-started/wmr-controls.md) или [окулус](getting-started/oculus-controls.md) | знакомство с виртуальными элементами управления в Windows Mixed Reality и окулус Quest |
 | [Управляйте своими аватарами](getting-started/avatar-controls.md) | Сведения о различных схемах управления для управления виртуальными аватарами |
 | [Полезные сочетания клавиш](getting-started/keyboard-shortcuts.md) | Оставайтесь в курсе последних сочетаний клавиш |
 
@@ -87,7 +87,7 @@ ms.locfileid: "112923061"
 
 [!INCLUDE[](includes/troubleshooting.md)]
 
-## <a name="6-community--resources"></a>6. ресурсы сообщества &
+## <a name="6-community--resources"></a>6. Community ресурсы &
 
 Алтспацевр — это сообщество, и мы будем рады присоединиться. Ознакомьтесь с нашими стандартами сообщества, условиями обслуживания, политикой конфиденциальности и подпишитесь на наш бюллетень, чтобы получить последние новости.
 

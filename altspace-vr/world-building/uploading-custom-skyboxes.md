@@ -4,12 +4,12 @@ description: Получите пошаговые инструкции по от�
 ms.date: 03/11/2021
 ms.topic: article
 keywords: скибоксес, устранение неполадок
-ms.openlocfilehash: 02d5bc762dc36d4195100e8155d6250789e833f7
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 912df5a4c87b7a5817824c6ee75ec8707439636b83b4d46996bbc4129ee6e9de
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213265"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126799"
 ---
 # <a name="uploading-custom-skyboxes"></a>Отправка настраиваемых Скибоксес
 

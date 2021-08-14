@@ -4,12 +4,12 @@ description: Узнайте о расширениях Алтспацевр, Mixe
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Редактор мира, отгрузка Unity, форумы
-ms.openlocfilehash: e2277e1425af72544d2e1ed450e01a15ff537039
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 97003073facfa0f4135111fff0ed6128b42ca81b96a8a70fdebef22d8988f548
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213106"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119126325"
 ---
 # <a name="getting-started-with-altspacevr"></a>Начало работы с Алтспацевр
 
@@ -25,9 +25,9 @@ ms.locfileid: "107213106"
 
 Также можно:
 
-* Присоединяйтесь к [сообществу MRE SDK дискорд](https://discord.com/invite/xyBcQec) , чтобы общаться с другими разработчиками MRE.
+* присоединяйтесь к [пакету SDK для MRE дискорд Community](https://discord.com/invite/xyBcQec) , чтобы общаться с другими разработчиками MRE.
 * [Посмотрите видеоролик о создании крестики-нолики](https://www.youtube.com/watch?v=DQHrdK9JSXI&ab_channel=AltspaceVR)
-* Узнайте, как изменять и создавать MREs с помощью [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)
+* узнайте, как изменять и создавать MREs с помощью [Visual Studio Code](https://github.com/Microsoft/mixed-reality-extension-sdk#using-visual-studio-code)
 * Просмотр [исходного кода Hello World](https://github.com/Microsoft/mixed-reality-extension-sdk-samples/tree/master/samples/hello-world)
 * Посетите наш [еженедельный наставничеством разработчиков в алтспацевр](https://account.altvr.com/channels/sdk)
 
@@ -35,7 +35,7 @@ ms.locfileid: "107213106"
 
 ## <a name="world-editor"></a>Мир, редактор
 
-Внутри Алтспацевр вы можете использовать наш встроенный редактор мира в своем домашнем пространстве. Это самый простой способ начать изменение пространства. При работе в вашем домашнем пространстве выберите кнопку Редактор мира в нижнем правом углу. См. нашу [страницу Приступая к работе со сборкой мирового](../world-building/world-building-getting-started.md)уровня. С помощью редактора мира можно разместить трехмерные объекты, средства передачи и расширения (MREs) и изменить скибокс мира.
+Внутри Алтспацевр вы можете использовать наш встроенный редактор мира в своем домашнем пространстве. Это самый простой способ начать изменение пространства. При работе в вашем домашнем пространстве выберите кнопку Редактор мира в нижнем правом углу. см. наш [Начало работы со страницей мирового здания](../world-building/world-building-getting-started.md). С помощью редактора мира можно разместить трехмерные объекты, средства передачи и расширения (MREs) и изменить скибокс мира.
 
 Если вы присоединяетесь к [программе с ранним доступом](../world-building/early-access.md), вы можете создать больше миров на [странице алтспацевр My миров](https://account.altvr.com/users/sign_in).
 

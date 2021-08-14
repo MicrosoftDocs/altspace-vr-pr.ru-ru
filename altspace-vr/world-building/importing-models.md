@@ -1,17 +1,17 @@
 ---
-title: Импорт моделей Глтф
+title: Импорт моделей glTF
 description: Узнайте, как правильно импортировать трехмерные модели Глтф в возможности Алтспацевр и устранять любые проблемы.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: модели, Глтф, импорт, скетчфаб, устранение неполадок
-ms.openlocfilehash: 4489f90832bd1cf85ff161caed11684257cce6ab
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 527c38fc49028258fa432445fe14a355710a18be65ee74252a8c39bc1bfe5190
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213256"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127092"
 ---
-# <a name="importing-gltf-models"></a>Импорт моделей Глтф
+# <a name="importing-gltf-models"></a>Импорт моделей glTF
 
 > [!NOTE]
 > Эта функция доступна для выбора пользователей в программе раннего доступа в данный момент.

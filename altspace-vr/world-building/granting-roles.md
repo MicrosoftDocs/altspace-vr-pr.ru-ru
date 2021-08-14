@@ -3,13 +3,13 @@ title: Предоставление ролей мира
 description: Ознакомьтесь с системой ролей и возможностей и получите пошаговые инструкции по предоставлению пользователям ролей в Алтспацевр.
 ms.date: 04/14/2021
 ms.topic: article
-keywords: Роли
-ms.openlocfilehash: 3a1d0f138b29fe545f52d851ff00062f156a860e
-ms.sourcegitcommit: 2db596ab5a1ecd4901a8c893741cc4d06f6aecea
+keywords: roles
+ms.openlocfilehash: f299f637d77c989be5504532279fb42451367b4ac53095d00627f67402dd8552
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112923202"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127129"
 ---
 # <a name="granting-world-roles"></a>Предоставление ролей мира
 
