@@ -1,15 +1,15 @@
 ---
 title: Есть ли у гарнитуры VR встроенный микрофон?
-description: Узнайте, как проверить встроенный микрофон на гарнитуре Windows Mixed Reality, Окулус Рифт, Окулус Quest или HTC Naopak.
+description: узнайте, как проверить встроенный микрофон на Windows Mixed Reality, окулус рифт, окулус Quest или на веб-портале HTC naopak.
 ms.date: 03/11/2021
 ms.topic: article
 keywords: VR, Windows
-ms.openlocfilehash: 6fc5bc192fd9cf285f3203ff07fe4614476c8ec9
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0847c2baa63f866ae473d1eee20f5d4515e47078d4070ca349ffc812cb82f2aa
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212966"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119121176"
 ---
 # <a name="does-my-vr-headsets-have-a-built-in-mic"></a>Есть ли у гарнитуры VR встроенный микрофон?
 
@@ -19,7 +19,7 @@ ms.locfileid: "107212966"
 
 ## <a name="windows"></a>Windows
 
-Для гарнитур, используемых в Windows, вы сможете найти микрофон, указанный под **устройством записи** , при наличии головного телефона.
+для гарнитур, используемых с Windows, вы сможете найти микрофон, указанный под **записывающими устройствами** , при наличии головного телефона.
 
 ## <a name="further-troubleshooting"></a>Устранение неполадок
 

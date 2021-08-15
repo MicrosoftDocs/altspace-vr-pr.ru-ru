@@ -1,17 +1,17 @@
 ---
-title: Есть ли кнопка отправки в речь?
+title: Есть ли кнопка для разговора?
 description: Узнайте, как найти и определить кнопку push-уведомления в представлении Алтспацевр.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: ''
-ms.openlocfilehash: 7abadd15b8238b271bb2514311804c711dcc41b4
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 0a25810f18b87964549495e85a5aa5b0497deba1a7c5b1e06fefa7e1ab78ba1e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212749"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128037"
 ---
-# <a name="is-there-a-push-to-talk-button"></a>Есть ли кнопка отправки в речь?
+# <a name="is-there-a-push-to-talk-button"></a>Есть ли кнопка для разговора?
 
 В правом нижнем углу представления имеется кнопка с микрофоном, которую можно использовать для переключения того, используется ли для доступа к Вашему голосовому пользователю другой пользователь. Кроме того, можно использовать сочетание клавиш **CTRL + ALT + T** для переключения этого параметра. 
  

@@ -4,12 +4,12 @@ description: Последние новости по установке и соз
 ms.date: 02/10/2021
 ms.topic: article
 keywords: бета-версия, бета-сборка, ошибки
-ms.openlocfilehash: 1153a8d3f07e23556769416a33e5d45b1ea5007d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 1977fe235380ea0850162d3829905521cd2fa9778ea0443b18064a7810cf9128
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212757"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119124994"
 ---
 # <a name="public-beta-build-programs"></a>Открытые программы бета-сборки
 

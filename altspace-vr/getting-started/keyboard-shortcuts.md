@@ -1,17 +1,17 @@
 ---
-title: сочетания клавиш
+title: Сочетания клавиш
 description: Оставайтесь в курсе всех доступных сочетаний клавиш и действий, поддерживаемых приложением Алтспацевр.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: клавиатура, сочетания клавиш
-ms.openlocfilehash: 9e8ec2475c650e27f201e8b265740f9e68425c63
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 5106f34d7cdba5ad42ca04070e66b7b77157f46554e5f3542b08ecb6e7f15030
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213116"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127884"
 ---
-# <a name="keyboard-shortcuts"></a>сочетания клавиш
+# <a name="keyboard-shortcuts"></a>Сочетания клавиш
 
 | Клавиши | Действие |
 |---|---|

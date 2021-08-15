@@ -1,17 +1,17 @@
 ---
-title: Как работает наметагс?
+title: Как работают ярлыки с именами?
 description: Узнайте о различных видах наметагс и о том, как они работают в Алтспацевр.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Вопросы и ответы
-ms.openlocfilehash: 396834a61c1b2cec03a917a2b156f84f2463dd90
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 2d635e04c4baec8577f7f5670c5a7f41714b8d3df3b530d26708b38287df7b84
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107212756"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128145"
 ---
-# <a name="how-do-nametags-work"></a>Как работает наметагс?
+# <a name="how-do-nametags-work"></a>Как работают ярлыки с именами?
 
 Если вы хотите просмотреть карточки другого пользователя, выберите аватар с курсором и карточки, которые будут отображаться выше.
 

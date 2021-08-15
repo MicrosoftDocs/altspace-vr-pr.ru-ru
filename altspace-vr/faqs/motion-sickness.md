@@ -1,17 +1,17 @@
 ---
-title: Станет ли Алтспацевр причиной сиккнесса Motion?
+title: Вызывает ли AltspaceVR укачивание?
 description: Оставайтесь в курсе последних часто задаваемых вопросов и решений для сиккнесс Motion в средах VR.
 ms.date: 02/10/2021
 ms.topic: article
 keywords: Motion сиккнесс, VR, отвращения
-ms.openlocfilehash: 54f746bc2b213f011dbf94c2703ed039b4717d72
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: 29d7c20ae16a212ba808b6f1d16909a7f0d29daf7e2f6fd6e8401c83cbdb2e7e
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213833"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119128162"
 ---
-# <a name="will-altspacevr-cause-motion-sickness"></a>Станет ли Алтспацевр причиной сиккнесса Motion?
+# <a name="will-altspacevr-cause-motion-sickness"></a>Вызывает ли AltspaceVR укачивание?
 
 ## <a name="why-do-some-people-feel-ill-in-vr"></a>Почему некоторые пользователи не имеют возможности использовать VR?
 

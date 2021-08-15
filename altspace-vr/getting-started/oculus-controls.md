@@ -4,12 +4,12 @@ description: Изучите основные элементы управлени
 ms.date: 03/11/2021
 ms.topic: article
 keywords: Окулус, Окулус Quest, элементы управления, разрешения, жесты руки
-ms.openlocfilehash: 9a10c782a4fac587621dec33d97bdfb9b9eca04d
-ms.sourcegitcommit: d84a6adf631ff02b106e682238f2861477caef1e
+ms.openlocfilehash: f5e68382d27cd155ab83ae6ea862297641744af678db8158532a6030341c8c7a
+ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "107213115"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "119127867"
 ---
 # <a name="oculus-questquest-2-controls-and-permissions"></a>Элементы управления и разрешения Окулус Quest/Quest 2
 
