@@ -20,7 +20,7 @@ ms.locfileid: "119125412"
 
 ![Примеры миров](images/unity-uploader-img-01.png)
 
-## <a name="setup"></a>Установка
+## <a name="setup"></a>Настройка
 
 1. Присоединяйтесь к [официальному дискорду алтспацевр](https://discordapp.com/invite/altspacevr) и посетите веб-сайт "#world-Build", чтобы друзья не могли создавать свои мировые.
 2. Ознакомьтесь [с руководством по начало работы мирового уровня для создания](world-building-getting-started.md) основ
@@ -92,7 +92,7 @@ ms.locfileid: "119125412"
     * Попробуйте новый проект.
     * Убедитесь, что ваша учетная запись Алтспаце хорошо размещается.
 
-## <a name="see-also"></a>См. также раздел
+## <a name="see-also"></a>См. также
 
 * [Сведения о Unity](https://unity3d.com/learn)
 * [Форумы Unity](https://forum.unity.com)

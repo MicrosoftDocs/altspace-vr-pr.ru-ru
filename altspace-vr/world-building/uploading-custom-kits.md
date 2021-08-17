@@ -20,7 +20,7 @@ ms.locfileid: "119125564"
 1. [Установка центра Unity и Unity](world-building-toolkit-getting-started.md)
 2. Скачайте последнюю версию [отгрузки Unity](https://altvr.com/download-latest-unity-uploader/)
 
-## <a name="setup"></a>Установка 
+## <a name="setup"></a>Настройка 
 
 > [!VIDEO https://channel9.msdn.com/Shows/Docs-Mixed-Reality/How-to-upload-my-own-Kits-Part-1-Setup/player]
 

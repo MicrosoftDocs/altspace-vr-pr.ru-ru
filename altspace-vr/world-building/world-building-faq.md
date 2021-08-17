@@ -3,7 +3,7 @@ title: Справка по сборке мира
 description: Оставайтесь в курсе последних часто задаваемых вопросов и решений для мирового здания в Алтспацевр.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: справка
+keywords: help
 ms.openlocfilehash: 9206bc604149520d3adc3604aab9a5d38340ccf88fdc00927edc62d10d671966
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT

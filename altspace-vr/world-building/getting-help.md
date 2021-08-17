@@ -3,7 +3,7 @@ title: Где можно получить справку?
 description: Оставайтесь в курсе лучших каналов для получения поддержки и помощи в работе с Алтпсацевр.
 ms.date: 02/10/2021
 ms.topic: article
-keywords: справка
+keywords: help
 ms.openlocfilehash: c3543c4130b7742e5356de71c6e93d8b3a78be168a73496cf834b56e1c1c4229
 ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
 ms.translationtype: MT

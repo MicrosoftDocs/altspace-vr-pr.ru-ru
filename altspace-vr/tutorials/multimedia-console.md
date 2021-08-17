@@ -195,7 +195,7 @@ ms.locfileid: "119127374"
 }
 ```
 
-### <a name="schema"></a>схема
+### <a name="schema"></a>Схема
 
 ```json
 {
