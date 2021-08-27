@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/04/2021
 ms.topic: article
 keywords: Алтспацевр, Virtual Meetup, Virtual Reality Meetup, VR Meetup, платформы виртуальных реальных сетей, платформа VR, впечатляющие виртуальные события, впечатляющие события VR, события виртуальной реальности, события VR, сборка VR-здания, иммерсивное состояние VR, социальные среды, платформа социальных сетей, размещение событий VR, социальная виртуальная реальность, размещение событий виртуальной среды
-ms.openlocfilehash: 9d5ccc5f74abf3c141f5786ba3650c3820eb8d49b8e914ab5a2a07828391ba04
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 1227807b34065c9706b8a67b2f9fc2368f5b7fdd
+ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131851"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "122979015"
 ---
 # <a name="what-is-altspacevr"></a>Что такое Алтспацевр
 
@@ -43,7 +43,7 @@ ms.locfileid: "119131851"
 
 Алтспацевр для бизнеса будет [включать Microsoft сеток](/mesh/). Вскоре вы сможете использовать возможности работы с трехмерным опытом и пространственной многопользовательской работы. Алтспацевр превратится в платформу Business VR для совместной работы, корпоративных мероприятий и сбора данных о сотрудниках.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 Есть ли у вас виртуальные события для передачи в мир? Начните путешествие здесь.
 > [!div class="nextstepaction"]
