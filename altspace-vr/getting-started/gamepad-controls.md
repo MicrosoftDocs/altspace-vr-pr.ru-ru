@@ -1,21 +1,25 @@
 ---
 title: Использование игрового планшета в Алтспацевр
 description: Узнайте о встроенных сопоставлениях контроллера Алтспацевр для контроллеров Xbox 360 и игровой планшета.
-ms.date: 02/10/2021
+ms.date: 9/14/2021
+author: qianw211
+ms.author: v-qianwen
 ms.topic: article
 keywords: Xbox, Xbox 360, игровой планшет, Windows, элементы управления
-ms.openlocfilehash: 4b0adcc8a3cad9c07f825417ec484e73c2bcf7d1965a9b7d0398eefb086c0ad7
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: 95a880c91ee687405dbe839b3e8a73d8c016171a
+ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119127901"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127871313"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>Использование игрового планшета в Алтспацевр
 
 алтспацевр имеет встроенную поддержку игровой планшета для Windows и автоматически распознает контроллеры Xbox 360. Элементы управления VR сопоставляются с игровым планшетом Xbox 360, включая систему телепортируйтесь, элемент управления курсором мыши и прокрутку страниц. Полный список элементов управления и сопоставление действий можно найти ниже.
 
 ## <a name="gamepad-controls"></a>Элементы управления "игровой планшет"
+
+<img src="images/altspacevr-xbox-controls.png" alt="Gamepad controls">
 
 | Входные данные | Действие |
 |---|---|
@@ -25,6 +29,6 @@ ms.locfileid: "119127901"
 | Триггер L | Sprint |
 | Правый бампер | "Режим отдыха" справа |
 | Левый бампер | "Режим отдыха", слева |
-| Кнопка A | Выбор |
+| Кнопка A | Выберите пункт |
 | Кнопка "Пуск" | Показать/скрыть панель действий |
 | Панель D | Прокрутка веб-страницы |
