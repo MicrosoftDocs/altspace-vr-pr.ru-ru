@@ -6,20 +6,18 @@ author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: Xbox, Xbox 360, игровой планшет, Windows, элементы управления
-ms.openlocfilehash: 95a880c91ee687405dbe839b3e8a73d8c016171a
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: f243c5941eccbe1e29dd6b2cd9d56bfd0e88491e
+ms.sourcegitcommit: acafe8e6bf1520c64d3562dcf1e904764152da2e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871313"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127960252"
 ---
 # <a name="using-a-gamepad-in-altspacevr"></a>Использование игрового планшета в Алтспацевр
 
 алтспацевр имеет встроенную поддержку игровой планшета для Windows и автоматически распознает контроллеры Xbox 360. Элементы управления VR сопоставляются с игровым планшетом Xbox 360, включая систему телепортируйтесь, элемент управления курсором мыши и прокрутку страниц. Полный список элементов управления и сопоставление действий можно найти ниже.
 
 ## <a name="gamepad-controls"></a>Элементы управления "игровой планшет"
-
-<img src="images/altspacevr-xbox-controls.png" alt="Gamepad controls">
 
 | Входные данные | Действие |
 |---|---|
