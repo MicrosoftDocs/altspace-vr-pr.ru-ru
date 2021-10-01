@@ -1,28 +1,28 @@
 ---
-ms.openlocfilehash: 9e4ce07f8e549f9d648e7666971a1009ecaffc729b5f1ff9d5fd1148e520e05c
-ms.sourcegitcommit: b248ba2a6da7d669b430581fc3a1544413b2e9c1
+ms.openlocfilehash: b69f1c6741e957caed47ea7b191d30274d42f8c9
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119126464"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310484"
 ---
 # <a name="altspacevr-application"></a>[Приложение AltspaceVR](#tab/application)
 
-* [Поиск версии приложения Алтспацевр](../faqs/app-version.md)
-* [Разделы справки отправить журналы клиента?](../faqs/uploading-client-logs.md)
-* [Не удается запустить Алтспацевр](../faqs/unable-to-launch.md)
+* [Поиск версии приложения Алтспацевр](../faqs/altspacevr-app-faq.md#finding-the-altspacevr-app-version)
+* [Разделы справки отправить журналы клиента?](../faqs/altspacevr-app-faq.md#how-do-i-upload-my-client-logs)
+* [Не удается запустить Алтспацевр](../faqs/altspacevr-app-faq.md#what-do-i-do-if-i-cant-launch-altspacevr)
 
 # <a name="audio"></a>[Звук:](#tab/audio)
 
-* [Есть ли у гарнитуры VR встроенный микрофон?](../faqs/vr-headset-mic.md)
-* [Есть ли кнопка для разговора?](../faqs/push-to-talk.md)
-* [Аудио прерывается](../faqs/choppy-audio.md)
-* [Другие пользователи не слышат меня](../faqs/other-users-cant-hear-me.md)
+* [Есть ли у гарнитуры VR встроенный микрофон?](../faqs/audio-faq.md#does-my-vr-headset-have-a-built-in-mic)
+* [Есть ли кнопка для разговора?](../faqs/audio-faq.md#is-there-a-push-to-talk-button)
+* [Аудио прерывается](../faqs/audio-faq.md#what-do-i-do-if-my-audio-is-choppy)
+* [Другие пользователи не слышат меня](../faqs/audio-faq.md#what-do-i-do-if-other-users-cant-hear-me)
 
 # <a name="account--avatar"></a>[Учетная запись & аватар](#tab/account)
 
-* [Как работают ярлыки с именами?](../faqs/nametags.md)
-* [Разделы справки обновить персональные данные?](../faqs/updating-email-address.md)
+* [Как работают ярлыки с именами?](../faqs/account-avatar-faq.md#how-do-nametags-work)
+* [Разделы справки обновить персональные данные?](../faqs/account-avatar-faq.md#how-do-i-update-my-personal-information)
 
 # <a name="contact-us"></a>[Свяжитесь с нами](#tab/contact)
 

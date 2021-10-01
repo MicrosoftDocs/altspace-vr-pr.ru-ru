@@ -15,7 +15,7 @@ highlightedContent:
   items:
     - title: Начало работы
       itemType: get-started
-      url: journey.md
+      url: overview.md
     - title: Поиск содержимого и людей
       itemType: overview
       url: community/exploring-title-screen.md
@@ -30,7 +30,7 @@ highlightedContent:
       url: world-building/early-access.md
     - title: Устранение неполадок
       itemType: reference
-      url: faqs/vr-headset-mic.md
+      url: faqs/audio-faq.md
 productDirectory:
   title: Начало работы
   summary: 'Используйте AltspaceVR для проведения мероприятий, создания виртуальных миров и взаимодействия с удаленными пользователями и сообществами по всему миру.'
@@ -94,13 +94,13 @@ additionalContent:
         - title: Устранение неполадок и поддержка
           links:
             - text: Проблемы с аудио
-              url: faqs/vr-headset-mic.md
+              url: faqs/audio-faq.md
             - text: Учетные записи и аватары
-              url: faqs/nametags.md
+              url: faqs/account-avatar-faq.md
             - text: Приложение AltspaceVR
-              url: faqs/app-version.md
+              url: faqs/altspacevr-app-faq.md
             - text: Работоспособность и безопасность
-              url: faqs/motion-sickness.md
+              url: faqs/health-safety-faq.md
             - text: События
               url: faqs/front-row-events.md
         - title: Свяжитесь с нами

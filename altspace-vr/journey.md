@@ -6,12 +6,12 @@ ms.author: v-qianwen
 ms.date: 08/26/2021
 ms.topic: article
 keywords: Алтспацевр, Virtual Meetup, Virtual Reality Meetup, VR Meetup, платформы виртуальных реальных сетей, платформа VR, впечатляющие виртуальные события, впечатляющие события VR, события виртуальной реальности, события VR, сборка VR-здания, иммерсивное состояние VR, социальные среды, платформа социальных сетей, размещение событий VR, социальная виртуальная реальность, размещение событий виртуальной среды
-ms.openlocfilehash: da13b9491e1b0e4c72d3378301d2b0e2d1c0e134
-ms.sourcegitcommit: bedec4cbcf00210c37c076c03a3c31cd8ef36689
+ms.openlocfilehash: dc88f0ff8664b062a8be9f5cbf79e7ddd3f4872a
+ms.sourcegitcommit: 5c452a9092297c0bfbc8efabebf395e7ee31853f
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122979036"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "129310485"
 ---
 # <a name="exploring-altspacevr"></a>Знакомство с AltspaceVR
 
@@ -48,7 +48,7 @@ ms.locfileid: "122979036"
 |  Контрольная точка  |  Результат  |
 | --- | --- |
 | [Просмотр экрана заголовка](community/exploring-title-screen.md) | Переход к платформе Алтспацевр из экрана заголовка для входа, ввода события или настройки аватара |
-| [Социальные функции & наметагс](faqs/nametags.md) | Узнайте, как наметагс и социальные функции работают в Алтспацевр |
+| [Социальные функции & наметагс](faqs/account-avatar-faq.md#how-do-nametags-work) | Узнайте, как наметагс и социальные функции работают в Алтспацевр |
 
 ## <a name="4-creating--hosting-events"></a>4. Создание событий размещения &
 
