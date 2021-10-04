@@ -127,44 +127,18 @@
       href: community/terms-of-service.md
     - name: Стандарты сообщества
       href: community/community-standards.md
-- name: Устранение неполадок и поддержка
+- name: 'Часто задаваемые вопросы: устранение неполадок и поддержка'
   items:
-    - name: Часто задаваемые вопросы
-      items:
-        - name: Аудио
-          items:
-            - name: Есть ли у моей гарнитуры виртуальной реальности встроенный микрофон?
-              href: faqs/vr-headset-mic.md
-            - name: Есть ли кнопка для разговора?
-              href: faqs/push-to-talk.md
-            - name: Аудио прерывается
-              href: faqs/choppy-audio.md
-            - name: Другие пользователи не слышат меня
-              href: faqs/other-users-cant-hear-me.md
-        - name: Учетная запись и аватар
-          items:
-            - name: Как работают ярлыки с именами?
-              href: faqs/nametags.md
-            - name: Как я могу изменить сведения в учетной записи?
-              href: faqs/updating-email-address.md
-            - name: Как удалить и повторно установить связь для учетной записи?
-              href: faqs/unlinking-and-relinking-accounts.md
-        - name: Приложение AltspaceVR
-          items:
-            - name: Как узнать версию приложения AltspaceVR?
-              href: faqs/app-version.md
-            - name: Как отправить журналы клиента?
-              href: faqs/uploading-client-logs.md
-            - name: Не удается запустить AltspaceVR
-              href: faqs/unable-to-launch.md
-        - name: Работоспособность и безопасность
-          items:
-            - name: Вызывает ли AltspaceVR укачивание?
-              href: faqs/motion-sickness.md
-        - name: События
-          items:
-            - name: Что собой представляют мероприятия FrontRow?
-              href: faqs/front-row-events.md
+    - name: Проблемы с аудио
+      href: faqs/audio-faq.md
+    - name: Учетная запись и аватар
+      href: faqs/account-avatar-faq.md
+    - name: Приложение AltspaceVR
+      href: faqs/altspacevr-app-faq.md
+    - name: Работоспособность и безопасность
+      href: faqs/health-safety-faq.md
+    - name: Мероприятия FrontRow
+      href: faqs/front-row-events.md
 - name: Свяжитесь с нами
   items:
     - name: Справка
