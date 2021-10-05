@@ -1,17 +1,17 @@
 ---
 title: Элементы управления аватара с мышью или клавиатурой в режиме 2D-ПК
 description: Узнайте, как переключаться между новыми и классическими схемами управления для перемещения аватаров с помощью мыши и клавиатуры в режиме 2D-ПК.
-ms.date: 9/14/2021
+ms.date: 10/4/2021
 author: qianw211
 ms.author: v-qianwen
 ms.topic: article
 keywords: аватар, мышь, клавиатура, 2D, режим ПК, элементы управления
-ms.openlocfilehash: 680ef1eb1a8751e4437b147fd1bec7e0911500b6
-ms.sourcegitcommit: 15ef5309ebd5f05502b06c675c9973b5deb5d6db
+ms.openlocfilehash: bacaf5e267ab28cc410b5659a34273b12ad36be5
+ms.sourcegitcommit: 44cb9f91859001dbda7d15e0f25f94284708a715
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127871245"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129446315"
 ---
 # <a name="avatar-controls-with-mousekeyboard-in-2d-pc-mode"></a>Элементы управления аватара с мышью или клавиатурой в режиме 2D-ПК
 
@@ -35,7 +35,7 @@ ms.locfileid: "127871245"
 
 ### <a name="new-pc-controls-for-keyboard--mouse"></a>Новые элементы управления ПК для клавиатуры и мыши
 
-<img src="images/keyboard-mouse-controls.png" alt="Keyboard and mouse with input mappings">
+![Клавиатура и мышь с сопоставлениями входных данных](images/keyboard-mouse-controls.svg)
 
 ## <a name="classic-pc-controls"></a>Классические элементы управления ПК 
 
@@ -66,11 +66,11 @@ ms.locfileid: "127871245"
 |---|---|---|
 | Переместить вперед | W | Стрелка вверх |
 | Переместить назад | S | Стрелка вниз |
-| Страфе слева | Объект | Недоступно |
+| Страфе слева | Объект | Н/Д |
 | Страфе вправо | D | Н/Д |
 | Выполнить вперед | Shift + W | Shift + стрелка вверх |
 | Выполнить назад | Shift + S | Shift + стрелка вниз |
-| Запустить слева | Shift + A | Недоступно |
+| Запустить слева | Shift + A | Н/Д |
 | Запустить справа | Shift + D | Н/Д |
 | "Режим отдыха", слева | Q | Стрелка влево |
 | "Режим отдыха" справа | E | Стрелка вправо |
@@ -80,5 +80,5 @@ ms.locfileid: "127871245"
 | Действие | Ключ | Альтернативный ключ |
 |---|---|---|
 | Переключить меню | ESC | Н/Д |
-| Полноэкранный режим приложения | ALT + ВВОД | Недоступно |
+| Полноэкранный режим приложения | ALT + ВВОД | Н/Д |
 | Переключить микрофон | Пробел | Ctrl + Alt + T |
