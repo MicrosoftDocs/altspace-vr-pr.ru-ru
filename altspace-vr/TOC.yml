@@ -103,8 +103,8 @@
           items:
             - name: Набор средств для создания миров (Unity Uploader)
               href: world-building/world-building-toolkit-getting-started.md
-            - name: Обновление содержимого до новейшей версии Unity
-              href: world-building/upgrading-content-to-the-latest-unity.md
+            - name: Обновление старых проектов Unity
+              href: world-building/upgrading-old-unity-projects.md
             - name: Руководство по оптимизации производительности мобильных устройств
               href: world-building/unity-mobile-performance-guide.md
             - name: Использование расширений смешанной реальности
