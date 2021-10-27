@@ -4,12 +4,12 @@ description: Узнайте, как создавать закрытые прос
 ms.date: 10/24/2021
 ms.topic: article
 keywords: группы, частные события, патреон, Eventbrite, устранение неполадок
-ms.openlocfilehash: dd536a2a8ef075ee9bc47ec065c04d0ab2c6d979
-ms.sourcegitcommit: 8c58f9f9ad1a3f9534141dee2c78e32792d0db7a
+ms.openlocfilehash: 92a05d6b0ee6f1212918dead7630cb917bf6972c
+ms.sourcegitcommit: 442497136b369a9789be161eae09d0e662094a85
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/25/2021
-ms.locfileid: "130298859"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "130325901"
 ---
 # <a name="using-the-groups-feature-to-create-private-events"></a>Создание частных событий с помощью функции "группы"
 
